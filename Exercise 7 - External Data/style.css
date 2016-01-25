@@ -1,0 +1,33 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+#chart {
+  shape-rendering: crispEdges;
+}
+
+.border {
+  fill: white;
+  stroke: black;
+}
+
+.label {
+  font-size: 12px;
+  text-anchor: middle;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: black;
+}
+
+.axis text {
+  font-size: 10px;
+  fill: black;
+  stroke: none;
+}
+
+.title {
+  fill: black;
+  stroke: none;
+}

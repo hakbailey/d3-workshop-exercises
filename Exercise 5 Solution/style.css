@@ -1,0 +1,8 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.border {
+  stroke: black;
+  fill: none;
+}

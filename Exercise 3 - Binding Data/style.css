@@ -1,0 +1,11 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.old {
+  color: blue;
+}
+
+.new {
+  color: red;
+}
